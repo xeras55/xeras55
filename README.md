@@ -1,6 +1,16 @@
 ![Descripción de la imagen](untitled(1).svg)
 
+## Hello there! 🫡
 
+### About me
+
+> BackEnd Developer 🧑‍💻
+> 
+> Pronouns: He/him/his 🫡
+> 
+> I love geek stuff 🤓
+> 
+> 
 
 
 
