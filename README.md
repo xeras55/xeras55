@@ -1,6 +1,6 @@
-![Descripción de la imagen](untitled(1).svg)
+![Descripción del banner](Banner.svg)
 
-## Hello there! ![Lightsaber Darth Vader](lightsaber-darth-vader_icon-icons.com_76944.ico)
+## Hello there! ![Sable Icon](Sable.ico)
 
 ### About me 🦾
 
@@ -23,5 +23,3 @@
 > * MySQL 🐬
 
 ## Contact me
-
-[![LinkedIn Icon](linkedin_icon-icons.com_65929.ico)](https://www.linkedin.com/in/gerardosm/)
