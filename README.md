@@ -14,7 +14,15 @@
 > 
 > Love training and exercise 🏃‍♂️
 > 
-> I work with: Java 🍵Spring 🍃 MySQL 🐬
+> 
+> 
+> I work with: 
+> 
+> * Java 🍵
+> 
+> * Spring 🍃  
+> 
+> * MySQL 🐬
 
 ## Contact me
 
