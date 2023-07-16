@@ -14,8 +14,6 @@
 > 
 > Love training and exercise 🏃‍♂️
 > 
-> 
-> 
 > I work with: 
 > 
 > * Java 🍵
