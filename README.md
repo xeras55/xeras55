@@ -16,6 +16,6 @@
 > 
 > I work with: Java 🍵Spring 🍃 MySQL 🐬
 
-## Reach me
+## Contact me
 
 [![LinkedIn Icon](linkedin_icon-icons.com_65929.ico)](https://www.linkedin.com/in/gerardosm/)
