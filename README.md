@@ -1,30 +1,21 @@
 ![Descripción de la imagen](untitled(1).svg)
 
-## Hello there! 🫡
+## Hello there! ![Lightsaber Darth Vader](lightsaber-darth-vader_icon-icons.com_76944.ico)
 
-### About me
+### About me 🦾
 
 > BackEnd Developer 🧑‍💻
 > 
 > Pronouns: He/him/his 🫡
 > 
+> Keep learning because it's never enough 📖
+> 
 > I love geek stuff 🤓
 > 
+> Love training and exercise 🏃‍♂️
 > 
+> I work with: Java 🍵Spring 🍃 MySQL 🐬
 
+## Reach me
 
-
-<!--
-**xeras55/xeras55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn Icon](linkedin_icon-icons.com_65929.ico)](https://www.linkedin.com/in/gerardosm/)
